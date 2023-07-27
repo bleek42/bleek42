@@ -22,7 +22,7 @@ _**edX inc.,**_ **Remote**
 * Accepting, reviewing, & grading students assignments on a self-start basis, using the course curriculum & due diligence
   to provide valuable feedback, as well as catching potential plagiarism.
 * Supporting the course instructor during lectures, assist students during "pair programming" assignments,
-  and mentor students 1-on-1 for several hours per week.
+  and mentor students 1-on-1 for several hours per week: average student satisfaction survey rating of 4.74/5.00.
 
 ### Junior Full Stack Developer
 ***ZettaLabs, Cedar Knolls NJ***
