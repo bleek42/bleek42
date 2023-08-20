@@ -2,9 +2,9 @@
 
 ## *Full Stack Web Developer - Raleigh, NC USA*
 
-Lifelong tech-savvy power user & relentless troubleshooter with 3+ years of consistent full stack web software development experience. Free & Open-Source Software & Linux advocate, often in the terminal but still enjoy the desktop experience regardless of the OS. 
-Compassionate, yet stern teacher with an emphasis on less slow mouse usage, more fast keyboard usage habits & efficient workflows synchronized with proficient individual programming fundamentals & team-oriented problem solving skills. Execellent in interpersonal & technical literacy skills, as evident from my years of proven experience in the various roles I have held, finding myself to be a trusted technical advisor, reliable communicator, effective collaborator, analytical & compassionate teacher with the humility of a pupil that is determined to find solutions to difficult problems with clients, students, co-workers, & stakeholders alike. 
-Have an affinity for ReactJS, SCSS/SASS, NodeJS, TypeScript, SQL & Shell Scripting - yet, always open to learning new things & forever teachable in the acknowledgement that new problems often require new solutions with the ever-changing technical landscape.
+Lifelong tech-savvy power user & relentless troubleshooter with 3+ years of consistent full stack web software development experience. Free & Open-Source Software & Linux advocate, often in the terminal but still enjoy the desktop experience regardless of the OS.
+Compassionate, yet stern teacher with an emphasis on less slow mouse usage, more fast keyboard usage habits & efficient workflows synchronized with proficient individual programming fundamentals & team-oriented problem solving skills. Execellent in interpersonal & technical literacy skills, as evident from my years of proven experience in the various roles I have held, finding myself to be a trusted technical advisor, reliable communicator, effective collaborator, analytical & compassionate teacher with the humility of a pupil that is determined to find solutions to difficult problems with clients, students, co-workers, & stakeholders alike.
+Have an affinity for ReactJS, SASS / SCSS, NodeJS, TypeScript, PostgreSQL, & various types of shell scripting (Bash/ZSH/Fish/Nu) - and yet, I am always open to learning & mastering new things, as one should be forever teachable in acknowledgement that new problems often require new solutions with the ever-changing technical landscape.
 
 ## *Contact*
 
