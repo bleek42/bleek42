@@ -19,31 +19,30 @@ _**LINKEDIN:**_ <a href="https://linkedin.com/in/brandonl42" target="_blank" sty
 ### Web Development Tutor
 _**edX inc.,**_ **Remote**
 **June 2022 - Present**
-* Experience, knowledge, & passion for contemporary full-stack web development with strong interpersonal skills & a desire
-  to inspire & teach university students that are almost always new to learning a programming languages in a remote setting.
+
+* Experience, knowledge, & passion for modern-contemporary full stack web development technologies based on HTML, CSS, JavaScript, MySQL, & MongoDB with a strong emphasis on React frontends & NodeJS/Express backends, as well as the temperament & enthusiasm to be an effective teacher amongst a wide range of students, spanning across timezones & national borders in a remote setting.
 * Accepting, reviewing, & grading students assignments on a self-start basis, using the course curriculum & due diligence
   to provide valuable feedback, as well as catching potential plagiarism.
-* Supporting the course instructor during lectures, assist students during "pair programming" assignments,
-  and mentor students 1-on-1 for several hours per week: average student satisfaction survey rating of 4.74/5.00.
+* Accepting, reviewing, & grading students assignments on a self-start basis, using the course curriculum & due diligence to provide valuable feedback, as well as catching potential plagiarism. Supporting the course instructor during lectures, assist students during "pair programming" assignments, and tutoring students 1-on-1 for up to 4 hours straight, 32 hours per week with an average student satisfaction survey rating of 4.74/5.00 out of over 500 students.
 
 ### Junior Full Stack Developer
 ***ZettaLabs, Cedar Knolls NJ***
 **January 2021 - June 2021**
+
 * Attend daily "sprint / stand-up" meetings with a diverse group of stakeholders
   & developers spanning across different time-zones, in an effort
   to coordinate task delegation & completion with a tech-stack that includes Angular, TypeScript, NodeJS, Python, & much more.
-* Implemented a complex notification system for user auth,
-  read / write access, among other various REST API CRUD operations using
-  Express & PostgreSQL.
+* Implementation & maintenance of a complex RESTful API with a secure user authentication/authorization regime based on groups, roles, read/write interactions, notification triggers, & graceful error handling.
 * Observed test-driven development practices for all work items and successfully deployed via Microsoft
   Azure using CI/CD with Jenkins.
 
 ### Business Development Representative
 ***GreenStar Exteriors, Philadelphia PA***
 **August 2017 - August 2019**
-* Charisma & bravery to succeed in door-to-door marketing for home remodeling estimates.
+
+* Charisma & bravery to succeed in door-to-door & cold-call marketing to homeowners exterior remodeling & improvement estimates, based on particular criteria guidelines that I personally identified & qualified.
 * Generating leads for next-gen window, roofing & siding installations.
-* Ability to set appointments that are kept, determining earning potential: best sale $80K, 16 Windows & 2200 sqft. Roof.
+* Getting appointments that are kept, determining earning potential: best sale $80K, 16 Windows & 2200 sqft. Roof.
 
 ### Sales Representative
 ***Verizon Wireless***
