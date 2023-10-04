@@ -5,7 +5,7 @@
 
 - Advanced to intermediate knowledge & understanding of React/Native/Redux/NextJS, TypeScript, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux (AWS, GC, Linode, etc.), SQL/NoSQL, via MySQL, PostgreSQL, MongoDB, GraphQL, Docker, etc. and prefers projects with a closely matched tech-stack, and yet open & confident in my fundamentals enough to adapt to almost any language or technology with strong support in place for me to learn & grow professionally. I value efficiency, as well as accuracy so, practicing good user/developer routines, habits are a key part of my learning/teaching philosophy.
   
--I am competent with various operating systems, development environments, commandline tools, internal processes, automated scripts, software configurations, security considerations, etc.
+- I am competent with various operating systems, development environments, commandline tools, internal processes, automated scripts, software configurations, security considerations, etc.
 Others have described me as proactive, analytical, a fast-learner that values collaboration with others, a patient tutor that makes concepts accessible to students, while still pushing them to ensure a challenging experience that instills a deeper understanding of the concepts. or independently throughout the years, having worked with a wide range of clientele using information technology in some capacity, and most importantly successfully transitioning into a more intellectually demanding profession in recent years with a dual developer/teacher dynamic.
 
 ## *Contact*
