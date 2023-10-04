@@ -1,9 +1,12 @@
 # *Brandon Leek*
 ## *Full Stack Web Developer - Raleigh, NC USA*
 
-Lifelong tech-savvy power user & relentless troubleshooter with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching others how they can do it too: from programming fundamentals via modern HTML, CSS, & JavaScript, learning & mastering the text-only user interface via terminal emulators & various shell scripting paradigms, or just merely becoming a more effective, tech-literate user of software in ones work & leisure. I value efficiency, as well as accuracy so, practicing good user/developer routines, habits are a key part of my learning/teaching philosophy.
-I work out of a terminal/shell half the time, and I am competent with various operating systems, development environments, commandline tools, internal processes, automated scripts, software configurations, etc.
-Others have described me as proactive, analytical, a fast-learner that can work well with others or independently throughout the years, having worked with a wide range of clientele using information technology in some capacity, and most importantly successfully transitioning into a more intellectually demanding profession in recent years with a dual developer/teacher dynamic.
+- Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching university students how: programming modern web apps via HTML, CSS, & JavaScript, getting used to text-only terminal/shell interfaces, or just generally becoming a more effective user that runs into less problems when using software in ones work or leisure. Competent in front/back-end development without a preference for either, but does prefer using a terminal with Bash/ZSH/Fish shell.
+
+- Advanced to intermediate knowledge & understanding of React/Native/Redux/NextJS, TypeScript, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux (AWS, GC, Linode, etc.), SQL/NoSQL, via MySQL, PostgreSQL, MongoDB, GraphQL, Docker, etc. and prefers projects with a closely matched tech-stack, and yet open & confident in my fundamentals enough to adapt to almost any language or technology with strong support in place for me to learn & grow professionally. I value efficiency, as well as accuracy so, practicing good user/developer routines, habits are a key part of my learning/teaching philosophy.
+  
+-I am competent with various operating systems, development environments, commandline tools, internal processes, automated scripts, software configurations, security considerations, etc.
+Others have described me as proactive, analytical, a fast-learner that values collaboration with others, a patient tutor that makes concepts accessible to students, while still pushing them to ensure a challenging experience that instills a deeper understanding of the concepts. or independently throughout the years, having worked with a wide range of clientele using information technology in some capacity, and most importantly successfully transitioning into a more intellectually demanding profession in recent years with a dual developer/teacher dynamic.
 
 ## *Contact*
 
