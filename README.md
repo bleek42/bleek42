@@ -1,19 +1,21 @@
-# *Brandon Leek*
-## *Full Stack Web Developer - Raleigh, NC USA*
+## _**Brandon Leek**_
+### *Full Stack Web Developer - Raleigh, NC USA*
+- _**WEB:**_ <a href="https://bleek.dev" target="_blank" style="color:cyan;font-weight:900">bleek.dev</a>
 
-- Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching university students how: programming modern web apps via HTML, CSS, & JavaScript, getting used to text-only terminal/shell interfaces, or just generally becoming a more effective user that runs into less problems when using software in ones work or leisure. Competent in front/back-end development without a preference for either, but does prefer using a terminal with Bash/ZSH/Fish shell.
+- _**GITHUB:**_ <a href="https://github.com/bleek42>" target="_blank" style="color:cyan;font-weight:900">github.com/bleek42</a>
 
-- Advanced to intermediate knowledge & understanding of React/Native/Redux/NextJS, TypeScript, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux (AWS, GC, Linode, etc.), SQL/NoSQL, via MySQL, PostgreSQL, MongoDB, GraphQL, Docker, etc. and prefers projects with a closely matched tech-stack, and yet open & confident in my fundamentals enough to adapt to almost any language or technology with strong support in place for me to learn & grow professionally. I value efficiency, as well as accuracy so, practicing good user/developer routines, habits are a key part of my learning/teaching philosophy.
+- _**LINKEDIN:**_ <a href="https://linkedin.com/in/brandonl42" target="_blank" style="color:cyan;font-weight:900">linkedin.com/in/brandonl42</a>
+
+![bleek42's github stats](https://github-readme-stats.vercel.app/api?username=bleek42&show_icons=true&theme=react)
+
+## **About**
+
+- Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching university students modern HTML, CSS, & JavaScript, as well as generally becoming a better user of software when performing tasks and is able to troubleshoot, debug, improve, and produce solutions with independence & competence. Observing efficient user/developer habits & routines are a key part of my learning/teaching philosophy, and I emphasize fundamental keyboard shortcut mastery early on.
+
+- Advanced to intermediate knowledge & understanding of modern full stack web development. Specific tech stack skills include (but certainly never limited to) React/Native/Redux/NextJS, TypeScript/JSDoc, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux, MySQL, PostgreSQL, MongoDB, GraphQL, & Docker. Naturally seeking projects that closely matched tech-stack, yet open to learn & adapt if granted the support to learn & grow.
   
-- Competent with various operating systems, development environments, commandline tools, internal processes, shell scripting, web/desktop applications, software configurations, & security considerations, and can setup/admin given various use cases. Capable of managing a team, taking on multiple responsibilities when necessary, and accepting/giving constructive criticism made in good faith amongst collaborating developers. I have been described by others as enthusiastic, proactive, analytical, a fast-learner that values teamwork, a patient teacher that makes concepts accessible to students while still pushing to ensure a challenging experience for students that instills a deeper understanding of the concepts. Having worked with a wide range of clientele using information technology in some capacity, I am an effective communicator that knows how to work with people, and successfully leverage this in my career transition as both a software developer and a teacher.
+- Competent with various operating systems, development environments, commandline tools, internal processes, shell scripting, web/desktop applications, software configurations, remote access, networking & security considerations. Capable of managing a team, taking on multiple responsibilities when necessary. I have been described by others as enthusiastic, proactive, analytical, concise, a fast-learner that values teamwork, a patient teacher that makes concepts accessible to students while still pushing to ensure a challenging experience.
 
-## *Contact*
-
-_**WEBSITE:**_ <a href="https://bleek.dev" target="_blank" style="color:cyan;font-weight:900">bleek.dev</a>
-
-_**GITHUB:**_ <a href="https://github.com/bleek42>" target="_blank" style="color:cyan;font-weight:900">github.com/bleek42</a>
-
-_**LINKEDIN:**_ <a href="https://linkedin.com/in/brandonl42" target="_blank" style="color:cyan;font-weight:900">linkedin.com/in/brandonl42</a>
 
 ## *Experience*
 
