@@ -10,7 +10,7 @@
 
 ## **About**
 
-- Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching university students modern HTML, CSS, & JavaScript, as well as generally becoming a better user of software when performing tasks and is able to troubleshoot, debug, improve, and produce solutions with independence & competence. Observing efficient user/developer habits & routines are a key part of my learning/teaching philosophy, and I emphasize fundamental keyboard shortcut mastery early on.
+- Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching university students modern HTML, CSS, & JavaScript, as well as generally becoming a better user of software when performing tasks and is able to troubleshoot, debug, improve, and produce solutions with independence & competence. Observing efficient user/developer habits & routines are a key part of my learning/teaching philosophy, and I emphasize fundamentals such as keyboard shortcut mastery early on.
 
 - Advanced to intermediate knowledge & understanding of modern full stack web development. Specific tech stack skills include (but certainly never limited to) React/Native/Redux/NextJS, TypeScript/JSDoc, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux, MySQL, PostgreSQL, MongoDB, GraphQL, & Docker. Naturally seeking projects that closely matched tech-stack, yet open to learn & adapt if granted the support to learn & grow.
   
