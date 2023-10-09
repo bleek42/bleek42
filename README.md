@@ -10,11 +10,13 @@
 
 ## **About**
 
-- Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, as well as 1.5 years now teaching university students modern HTML, CSS, & JavaScript, as well as generally becoming a better user of software when performing tasks and is able to troubleshoot, debug, improve, and produce solutions with independence & competence. Observing efficient user/developer habits & routines are a key part of my learning/teaching philosophy, and I emphasize fundamentals such as keyboard shortcut mastery early on.
+    - Lifelong tech-savvy power user with 4 years of consistent full stack software development experience, 1.5 years teaching university students modern HTML, CSS, & JavaScript in a remote setting, and broadly speaking, have been assisting people in some capacity on how to become a better user of software that is effecient, able to self-troubleshoot / debug, and produce solutions with greater competence & independence. Observing efficient user/developer habits & routines are a key part of my learning/teaching philosophy, and I emphasize the fundamentals such as keyboard shortcut mastery early.
 
-- Advanced/Intermediate skills in modern full-stack web development using JavaScript & TypeScript. Specific tech stack skills include: React/Native/Redux/NextJS, TypeScript/JSDoc, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux (Debian or Arch-based), MySQL, PostgreSQL, MongoDB, GraphQL, & Docker. Naturally seeking projects that closely matched tech-stack, yet open to learn & adapt when granted the support to upskill.
-  
-- Competent with various operating systems, development environments, commandline tools, internal processes, shell scripting, web/desktop applications, software configurations, remote access, networking & security considerations. Capable of managing a team, taking on multiple responsibilities when necessary. I have been described by others as enthusiastic, proactive, analytical, concise, a fast-learner that values teamwork, a patient teacher that makes concepts accessible to students while still pushing to ensure a challenging experience.
+
+    - Advanced/Intermediate skills in modern full-stack web development using JavaScript & TypeScript. Specific tech stack skills include: React/Native/Redux/NextJS, TypeScript/JSDoc, NodeJS, NPM/Yarn/PNPM, Express/NestJS, Linux (Debian or Arch-based), MySQL, PostgreSQL, MongoDB, GraphQL, & Docker. Naturally seeking projects that closely matched tech-stack, yet open to learn & adapt when granted the support to upskill.
+
+
+    - Competent with various operating systems, development environments, commandline tools, internal processes, shell scripting, web/desktop applications, software configurations, remote access, networking & security considerations. Capable of managing a team, mentoring colleagues, and handling multiple responsibilities when necessary. I have been described by others as enthusiastic, proactive, analytical, concise, a fast-learner that values teamwork, a patient teacher that makes concepts accessible, while still pushing to ensure a challenging experience that instills long-term mastery
 
 
 ## *Experience*
