@@ -10,13 +10,13 @@
 
 ## **About**
 
-- A life-long tech enthusiast, troubleshooter, power-user with 4 years of experience in modern web application development: Fluent in HTML, CSS, JavaScript, SQL / NoSQL, as well as a deep understanding of the NodeJS/NPM package ecosystem, and 2 years teaching student developers in remote settings.  
+- Life-long tech enthusiast, troubleshooter & power-user with 4 years of experience developing modern web software, in addition to 2 years teaching student developers in remote settings. Fluent in HTML, CSS, JavaScript, SQL & NoSQL database paradigms, and a deep understanding of the NodeJS Package Management (NPM) ecosystem.  
 
-- Well-versed with Windows, Linux, various shell scripting languages, package managers, system administration, maintenance, security hardening, and other configurations based on a per use case basis. Deep understanding of contemporary libraries, frameworks, & tools - particularly ReactJS / NextJS / React-Native, TypeScript (or JSDoc), NodeJS, PNPM / Yarn, Express / Fastify / NestJS, SQL, NoSQL  / MongoDB), GraphQL, Docker, Git, VS Code, & Vim. Open, even eager to discovering new things as requirements demand, 
+- Competent with Windows & Linux-based operating systems, different shell-scripting languages (Bash, ZSH, Fish, Powershell), remote server administration, defensive cyber-security strategies, and otherwise configuring solutions as a use-case requires. High-affinity for modern-contemporary software libraries, frameworks, packages & toolchains, particularly yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, Angular, NodeJS, Express, Fastify, NestJS, PostgreSQL, MongoDB, GraphQL, tRPC, Docker & Git. Open, even eager to discovering new things as requirements demand, 
 
-- Emphasize ongoing improvements to efficiency with students as they learn, especially when observed lacking early on that proves critical to student commitment & success. I stress the importance of basic keyboard, shortcut, command line, & editor competencies, using code snippets, completions, and much more that encourages best learning practices, while also discouraging practices that often inhibit learning.
+- Emphasize ongoing improvements to workflow efficiency with students as they go about their learning path, especially when observing any basic userland-literacy skills that are lacking that I find critical to student success. I stress the importance of becoming a faster & more accurate typist, memorizing fundamental commands, leveraging editor features such as code snippets, tab completions, and anything that encourages best learning practices while also discouraging practices that inhibit learning.
 
-- Others have described me as a fast learner proactive, analytical, engages with good faith constructive criticism, and a patient teacher that makes concepts accessible, while still pushing to ensure a challenging experience & long-term mastery.
+- I have been described by others as proactive, analytical, a quick learner that responds well to constructive criticism, a clear & concise communicator, a patient teacher that explains difficult concepts in an accessible way while still pushing to for a challenging experience that fosters long-term mastery.
 
 ## *Experience*
 
