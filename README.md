@@ -10,9 +10,11 @@
 
 ## **About**
 
-- A life-long tech enthusiast, troubleshooter, power-user with 4 years of experience in modern web application development: Fluent in HTML, CSS, JavaScript, SQL / NoSQL, as well as a deep understanding of the NodeJS/NPM package ecosystem, and 2 years teaching student developers in remote settings. Keen on Windows, Linux, various shell scripting languages, package managers, etc., and understand system administration, security hardening, maintaining, or otherwise configuring based on use-case. I emphasize ongoing user-literacy improvements, especially where observed to be lacking early on that I find critical to long-term student success. Strong emphasis on the importance of basic keyboard, shortcut, command line, & editor competencies, using code snippets, certain completion tools, and plenty more that generally encourages making learning a programming language for the first time less intimidating, while still discouraging particular things that often prevent learning.  
+- A life-long tech enthusiast, troubleshooter, power-user with 4 years of experience in modern web application development: Fluent in HTML, CSS, JavaScript, SQL / NoSQL, as well as a deep understanding of the NodeJS/NPM package ecosystem, and 2 years teaching student developers in remote settings. Keen on  I emphasize ongoing user-literacy improvements, especially where observed to be lacking early on that I find critical to long-term student success. Strong emphasis on the importance of basic keyboard, shortcut, command line, & editor competencies, using code snippets, certain completion tools, and plenty more that generally encourages making learning a programming language for the first time less intimidating, while still discouraging particular things that often prevent learning.  
 
-- Well-versed in contemporary libraries, frameworks, & tools, particularly ReactJS / NextJS / React-Native, TypeScript (or JSDoc), NodeJS, PNPM / Yarn, Express / Fastify / NestJS, SQL, NoSQL  / MongoDB), GraphQL, Docker. Open to, even enthusiastic about discovering new things as requirements demand, and not necessarily dedicated to this technical stack. Others have described me as a fast learner proactive, analytical, engages with good faith constructive criticism, and a patient teacher that makes concepts accessible, while still pushing to ensure a challenging experience & long-term mastery.
+- Well-versed with Windows, Linux, various shell scripting languages, package managers, system administration, maintainence, security hardening, and other configurations based on a per use case basis. Deep understanding of contemporary libraries, frameworks, & tools - particularly ReactJS / NextJS / React-Native, TypeScript (or JSDoc), NodeJS, PNPM / Yarn, Express / Fastify / NestJS, SQL, NoSQL  / MongoDB), GraphQL, Docker, Git, VS Code, & Vim. Open, even eager to discovering new things as requirements demand, 
+
+- Others have described me as a fast learner proactive, analytical, engages with good faith constructive criticism, and a patient teacher that makes concepts accessible, while still pushing to ensure a challenging experience & long-term mastery.
 
 ## *Experience*
 
@@ -21,8 +23,10 @@ _**edX inc.,**_ **Remote**
 **June 2022 - Present**
 
 * Experience, knowledge, & passion for modern-contemporary full-stack web development technologies based on HTML, CSS, JavaScript, MySQL, & MongoDB with a strong emphasis on React frontends & NodeJS/Express backends, as well as the temperament & enthusiasm to be an effective teacher amongst a wide range of students, spanning across timezones & national borders in a remote setting.
+  
 * Accepting, reviewing, & grading students' assignments on a self-start basis, using the course curriculum & due diligence
   to provide valuable feedback, as well as catching potential plagiarism.
+  
 * Accepting, reviewing, & grading students' assignments on a self-start basis, using the course curriculum & due diligence to provide valuable feedback, as well as catching potential plagiarism. Supporting the course instructor during lectures, assist students during "pair programming" assignments, and tutoring students 1-on-1 for up to 4 hours straight, 32 hours per week with an average student satisfaction survey rating of 4.74/5.00 out of over 500 students.
 
 ### Junior Full Stack Developer
