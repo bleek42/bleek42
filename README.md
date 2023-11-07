@@ -11,7 +11,7 @@
  
 - Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains, particularly, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, Angular, NodeJS, Express, Fastify, NestJS, PostgreSQL, MongoDB, GraphQL, Docker, & Git. Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), system administration, defensive cyber-security strategies, and capable of configuring solutions as specific use-cases require.
 
-- Described by others as proactive, analytical, a quick learner that is responsive to constructive criticism, an effective collaborator, a concise communicator, and an engaging teacher that fosters a supportive, yet challenging experience.
+- Described by others as proactive, analytical, a quick learner, responsive to constructive criticism, an effective collaborator, a concise communicator, and an engaging teacher that fosters a supportive, yet challenging experience.
 
 ### *Experience*
 ##### Web Development Tutor
