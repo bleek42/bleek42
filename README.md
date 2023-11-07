@@ -7,20 +7,20 @@
 ![bleek42's github stats](https://github-readme-stats.vercel.app/api?username=bleek42&show_icons=true&theme=react)
 
 ## *About*
-- Life-long tech enthusiast, troubleshooter & power-user with 4 years of experience developing full-stack web applications, as well as 2 years teaching student developers. Fluent in HTML, CSS, JavaScript, SQL & NoSQL database paradigms. Deep understanding of the NodeJS Package Management (NPM) ecosystem.
+- Life-long tech enthusiast, troubleshooter & power-user with 4 years of experience developing full-stack web applications, as well as 2 years teaching aspiring developers & cyber security professionals. Fluent in HTML, CSS, JavaScript, SQL & NoSQL database paradigms. Deep understanding of the NodeJS Package Management (NPM) ecosystem.
  
-- Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains, particularly, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, Angular, NodeJS, Express, Fastify, NestJS, PostgreSQL, MongoDB, GraphQL, Docker, & Git. Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), system administration, defensive cyber-security strategies, and capable of configuring solutions as specific use-cases require.
+- Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains. Specifically, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, NodeJS, Express, Fastify, NestJS, Electron, PostgreSQL, MongoDB, GraphQL, Docker, & Git. Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), remote/cloud server administration, preventative cyber-security strategies, and more than capable of configuring solutions as specific as a given use-case requires.
 
 - Described by others as proactive, analytical, a quick learner, responsive to constructive criticism, an effective collaborator, a concise communicator, and an engaging teacher that fosters a supportive, yet challenging experience.
 
 ### *Experience*
-##### Web Development Tutor
-##### _**edX, inc.**_ 
+##### Instructor - FS Web Dev, Cyber Security
+##### _**2U Inc., Chapel Hill, NC (remote)**_ 
 **June 2022 - Present**
-* Working knowledge of full-stack web development with a strong emphasis on React frontends & NodeJS/Express backends. Temperament, patience, & enthusiasm in order to be an effective teacher amongst a diverse range of students that span across time zones & international borders in a remote learning setting.
-* Supporting, advising, and occasionally acting in place of the lead teacher responsible for class lectures in adherence to daily lesson plans with class of up to 32 students. Coaching, troubleshooting, & building rapport with students as they work together in pairs on practice assignments following lectures in prescribed intervals. Scheduled 3-5 days per week up to 6 month commitment per individual class.
-* Individually tutoring students during pre/post class office hours. outside of class 50 minute sessions 32 hours per week with an average student satisfaction survey rating of 4.74/5.00 out of over 500 students.
-* Accepting, reviewing, & grading students' assignments on a self-start basis, using the course curriculum & diligence to provide valuable feedback, as well as catching potential plagiarism & cheating.
+* Working knowledge of full-stack web development curriculum with an emphasis on React, NodeJS, Express, MySQL, MongoDB, & GraphQL backends. Temperament, patience, & enthusiasm to be an effective teacher amongst a diverse range of students that span across time zones & international borders in a remote learning setting.
+* Supporting, advising, and occasionally acting in place of the lead teacher responsible for class lectures in adherence to daily lesson plans with a class of up to 32 students. Coaching, troubleshooting, & building rapport with students as they work together in pairs on practice assignments following lectures at prescribed intervals. Class schedule runs 3-5 days per week, up to 6 month commitment per individual class.
+* Individually tutoring students during pre/post class office hours and outside of class hours as students from other classes request 1-2 per week for 1-hour sessions. Average student satisfaction survey rating of 4.74/5.00 out of over 500 sessions.
+* Accepting, reviewing, & grading students' assignments on a self-start basis, using the curriculum's grading syllabus, my personal experience, and due diligence to provide valuable feedback as well as catch potential plagiarism & cheating.
 
 ##### Full-Stack Developer
 ##### ***ZettaLabs, Cedar Knolls NJ***
@@ -28,18 +28,18 @@
 * Attend daily meetings with a diverse group of stakeholders
   & developers spanning across time zones in order
   to coordinate task delegation, progress updates, and raise potential issues within the framework of an individual "sprint".
-* Implementation & ongoing maintenance of a complex RESTful API with a secure authentication & authorization regime based on user group(s), role(s), read, write, execute permissions, notification events, and robust error handling. Tech-stack consisting of Angular, TypeScript, SCSS/SASS, NodeJS, Express, PostgreSQL, & Microsoft Azure.
-* Observed test-driven development practices for all work items, passing all code linting, formatting checks and successfully deployed via Jenkins CI/CD.
+* Implementation, and ongoing maintenance of a complex NodeJS REST API with a secure authentication & authorization regime based on user group(s), role(s), read, write, execute permissions, notification events, and robust error handling. Responsible for the following parts of tech-stack: Typescript, Angular, SCSS, ExpressJS, PostgreSQL, MS Azure, Jenkins CI/CD.
+* Observe test-driven development practices for all work items assigned for the duration of each sprint, follow a set git commit message standard, run all code linting checks & formatting fixes, then deploy to Azure live demo instance.
 
 ##### Business Development Representative
 ##### ***GreenStar Exteriors, Philadelphia PA***
 **August 2017 - August 2019**
 * Charisma & bravery to succeed in door-to-door & cold-call marketing to homeowners' exterior remodeling & improvement estimates, based on particular criteria guidelines that I personally identified & qualified.
 * Generating leads for next-gen window, roofing & siding installations.
-* Getting appointments that are kept, determining earning potential with a top grossing sale in excess of $80,000 (USD).
+* Getting appointments that are kept, determining earning potential with a top-grossing sale in excess of $80,000 (USD).
 
 ##### Sales Representative
-##### ***Verizon Wireless***
+##### ***Verizon Wireless, Brigantine NJ***
 **May 2013 - June 2017**
 * Balanced monthly profitability goals by solving Verizon Wireless client needs in a team-oriented retail store.
 * Cultivating a retail sales team with an excellent reputation amongst consumer & small business clientele in the community we serve.
