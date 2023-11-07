@@ -6,7 +6,7 @@
 
 ![bleek42's github stats](https://github-readme-stats.vercel.app/api?username=bleek42&show_icons=true&theme=react)
 
-## *About*
+### *About*
 - Life-long tech enthusiast, troubleshooter & power-user with 4 years of experience developing full-stack web applications, as well as 2 years teaching aspiring developers & cyber security professionals. Fluent in HTML, CSS, JavaScript, SQL & NoSQL database paradigms. Deep understanding of the NodeJS Package Management (NPM) ecosystem.
  
 - Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains. Specifically, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, NodeJS, Express, Fastify, NestJS, Electron, PostgreSQL, MongoDB, GraphQL, Docker, & Git. Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), remote/cloud server administration, preventative cyber-security strategies, and more than capable of configuring solutions as specific as a given use-case requires.
