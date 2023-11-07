@@ -5,14 +5,14 @@
 - _**LINKEDIN:**_ <a href="https://linkedin.com/in/brandonl42" target="_blank" style="color:cyan;font-weight:900">linkedin.com/in/brandonl42</a>
 
 ![bleek42's github stats](https://github-readme-stats.vercel.app/api?username=bleek42&show_icons=true&theme=react)
-
 ### *About*
 - Life-long tech enthusiast, troubleshooter & power-user with 4 years of experience developing full-stack web applications, as well as 2 years teaching aspiring developers & cyber security professionals. Fluent in HTML, CSS, JavaScript, SQL & NoSQL database paradigms. Deep understanding of the NodeJS Package Management (NPM) ecosystem.
  
-- Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains. Specifically, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, NodeJS, Express, Fastify, NestJS, Electron, PostgreSQL, MongoDB, GraphQL, Docker, & Git. Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), system administration, preventative cyber-security strategies, and can produce solutions that as detailed as a specific use-case demands.
+- Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains. Specifically, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, NodeJS, Express, Fastify, NestJS, Electron, PostgreSQL, MongoDB, GraphQL, Docker, & Git.
 
-- Described by others as proactive, analytical, a quick learner, responsive to constructive criticism, an effective collaborator, a concise communicator, and an engaging teacher that fosters a supportive, yet challenging experience.
+- Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), remote system administration, preventative cyber-security strategies, and can produce solutions that as detailed as a specific use-case demands.
 
+- Described by others as proactive, analytical, a quick learner, an effective collaborator, a concise communicator, responsive to constructive criticism, and an engaging teacher that fosters a supportive, yet challenging experience.
 ### *Experience*
 ##### Instructor - FS Web Dev, Cyber Security
 ##### _**2U Inc., Chapel Hill, NC (remote)**_ 
@@ -38,14 +38,14 @@
 * Generating leads for next-gen window, roofing & siding installations.
 * Getting appointments that are kept, determining earning potential with a top-grossing sale in excess of $80,000 (USD).
 
-##### Sales Representative
+##### Sales Manager, Assistant
 ##### ***Verizon Wireless, Brigantine NJ***
 **May 2013 - June 2017**
 * Balanced monthly profitability goals by solving Verizon Wireless client needs in a team-oriented retail store.
 * Cultivating a retail sales team with an excellent reputation amongst consumer & small business clientele in the community we serve.
-* Set the individual districts record with 22 new lines of service activations on a small business account, ensuring as seemless an experience as possible by successfully porting all clients numbers from a competing provider, totalling $35,000 in gross profit.
+* Set the individual sale record for the entire sales region in 2016 with 22 new lines of service activations on a small business account, ensuring as seamless an experience as possible by successfully porting all clients numbers from a competing provider, totaling $35,000 in gross profit.
 
-#### *Education*
+### *Education*
 
 - ##### Technical Certification: Software Engineering
 	***Thinkful - Brooklyn, NY (remote)***
