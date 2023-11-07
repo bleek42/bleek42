@@ -17,9 +17,9 @@
 ##### Instructor - FS Web Dev, Cyber Security
 ##### _**2U Inc., Chapel Hill, NC (remote)**_ 
 **June 2022 - Present**
-* Working knowledge of full-stack web development curriculum with an emphasis on React, NodeJS, Express, MySQL, MongoDB, & GraphQL backends. Temperament, patience, & enthusiasm to be an effective teacher amongst a diverse range of students that span across time zones & international borders in a remote learning setting.
+* Working knowledge of full-stack web development curriculum with an emphasis on React, NodeJS, Express, MySQL, MongoDB, & GraphQL. Enthusiasm, patience, and a balanced temperament to be an effective teacher amongst a diverse range of students that span across time zones & international borders in a remote learning setting.
 * Supporting, advising, and occasionally acting in place of the lead teacher responsible for class lectures in adherence to daily lesson plans with a class of up to 32 students. Coaching, troubleshooting, & building rapport with students as they work together in pairs on practice assignments following lectures at prescribed intervals. Class schedule runs 3-5 days per week, up to 6 month commitment per individual class.
-* Individually tutoring students during pre/post class office hours and outside of class hours as students from other classes request 1-2 per week for 1-hour sessions. Average student satisfaction survey rating of 4.74/5.00 out of over 500 sessions.
+* Individually tutoring students during pre/post class office hours and outside of class hours as students from all other classes request 1-2 per week for 1-hour sessions. Average student satisfaction survey rating of 4.74/5.00 out of over 500 sessions.
 * Accepting, reviewing, & grading students' assignments on a self-start basis, using the curriculum's grading syllabus, my personal experience, and due diligence to provide valuable feedback as well as catch potential plagiarism & cheating.
 
 ##### Full-Stack Developer
@@ -43,7 +43,7 @@
 **May 2013 - June 2017**
 * Balanced monthly profitability goals by solving Verizon Wireless client needs in a team-oriented retail store.
 * Cultivating a retail sales team with an excellent reputation amongst consumer & small business clientele in the community we serve.
-* Set the individual sale record for the entire sales region in 2016 with 22 new lines of service activations on a small business account, ensuring as seamless an experience as possible by successfully porting all clients numbers from a competing provider, totaling $35,000 in gross profit.
+* Set the individual sale record for the entire sales region in 2016 with 22 new lines of service activations on a small business account, ensuring as seamless an experience as possible by successfully porting all client numbers from a competing provider, totaling $35,000 in gross profit.
 
 ### *Education*
 
