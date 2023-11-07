@@ -10,7 +10,7 @@
  
 - Advanced knowledge of modern-contemporary libraries, frameworks, packages & toolchains. Specifically, yet not exclusively: React, React-Native, NextJS, TypeScript, JSDoc, NodeJS, Express, Fastify, NestJS, Electron, PostgreSQL, MongoDB, GraphQL, Docker, & Git.
 
-- Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), remote system administration, preventative cyber-security strategies, and can produce solutions that as detailed as a specific use-case demands.
+- Proficient with Windows, Linux (Debian, Alpine, Arch-based), Shell-Script (Bash, ZSH, Fish, Powershell), remote system administration, preventative cyber-security strategies, and can produce solutions that are as detailed as specific use-case requires.
 
 - Described by others as proactive, analytical, a quick learner, an effective collaborator, a concise communicator, responsive to constructive criticism, and an engaging teacher that fosters a supportive, yet challenging experience.
 ### *Experience*
@@ -28,15 +28,15 @@
 * Attend daily meetings with a diverse group of stakeholders
   & developers spanning across time zones in order
   to coordinate task delegation, progress updates, and raise potential issues within the framework of an individual "sprint".
-* Implementation, and ongoing maintenance of a complex NodeJS REST API with a secure authentication & authorization regime based on user group(s), role(s), read, write, execute permissions, notification events, and robust error handling. Responsible for the following parts of tech-stack: Typescript, Angular, SCSS, ExpressJS, PostgreSQL, MS Azure, Jenkins CI/CD.
+* Implementation, and ongoing maintenance of a complex NodeJS REST API with a secure authentication & authorization regime based on user group(s), role(s), read, write, execute permissions, notification events, and robust error handling. Responsible for the following parts of tech stack: Typescript, Angular, SCSS, ExpressJS, PostgreSQL, MS Azure, Jenkins CI/CD.
 * Observe test-driven development practices for all work items assigned for the duration of each sprint, follow a set git commit message standard, run all code linting checks & formatting fixes, then deploy to Azure live demo instance.
 
 ##### Business Development Representative
 ##### ***GreenStar Exteriors, Philadelphia PA***
 **August 2017 - August 2019**
-* Charisma & bravery to succeed in door-to-door & cold-call marketing to homeowners' exterior remodeling & improvement estimates, based on particular criteria guidelines that I personally identified & qualified.
+* Charisma & bravery to succeed in door-to-door & cold-call marketing to homeowners' exterior remodeling & improvement estimates, based on particular criteria guidelines that I identified & qualified.
 * Generating leads for next-gen window, roofing & siding installations.
-* Getting appointments that are kept, determining earning potential with a top-grossing sale in excess of $80,000 (USD).
+* Getting appointments that are kept, determining earning potential. Set an appointment that led to closing the highest earning installation with my counterpart in the demo team for month of May 2019 at $80000(USD), setting a new best personal record for myself as well.
 
 ##### Sales Manager, Assistant
 ##### ***Verizon Wireless, Brigantine NJ***
