@@ -1,9 +1,7 @@
 ## _**Brandon Leek**_
 ### *Full Stack Web Developer - Raleigh, NC USA*
 - _**WEB:**_ <a href="https://bleek.dev" target="_blank" style="color:cyan;font-weight:900">bleek.dev</a>
-
 - _**GITHUB:**_ <a href="https://github.com/bleek42>" target="_blank" style="color:cyan;font-weight:900">github.com/bleek42</a>
-
 - _**LINKEDIN:**_ <a href="https://linkedin.com/in/brandonl42" target="_blank" style="color:cyan;font-weight:900">linkedin.com/in/brandonl42</a>
 
 ![bleek42's github stats](https://github-readme-stats.vercel.app/api?username=bleek42&show_icons=true&theme=react)
